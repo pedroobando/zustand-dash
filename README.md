@@ -36,3 +36,17 @@ En esta sección vamos a trabajar con middlewares o funciones adicionales que ex
 - Diferentes interfaces de Zustand
 - Custom Middleware
 - Redux DevTools y acciones
+
+### Seccion 4: Tareas - Drag & Drop - Inmutablidad con Immer
+
+En esta sección aprenderemos a trabajar con objetos anidados dentro de nuestro store, con el objetivo de apreciar claramente él benefició de utilizar la función produce o mejor aún, el middleware immer, para poder mutar el estado y generar uno nuevo basado en esa mutación.
+
+- Drag & Drop (sin dependencias)
+- Uso de Store con objetos anidados
+- Middlewares
+- Funciones adicionales
+- UUID
+- Mutaciones vs Clonaciones
+- Tipado en TypeScript
+- Entre otras cosas
+- A la final creamos un custom hook para encapsular la logica del taskStore.
